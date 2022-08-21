@@ -27,7 +27,11 @@ https://live.52sf.ga/douyu/252140
 https://live.52sf.ga/douyu/3168536
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/bf37daa11de78b0f787e28112764e3ebea4f0237.jpg" group-title="英雄联盟", 咪啪aaa
 https://live.52sf.ga/bilibili/9113562
-#EXTINF:-1 tvg-name=" 北慕" tvg-logo="null",  北慕
+#EXTINF:-1 tvg-name=" 北慕" tvg-logo="null" group-title="王者荣耀",  北慕
 https://live.52sf.ga/huya/31520
-#EXTINF:-1 tvg-name=" 长生" tvg-logo="null",  长生
+#EXTINF:-1 tvg-name=" 长生" tvg-logo="null" group-title="王者荣耀",  长生
 https://live.52sf.ga/huya/265749
+#EXTINF:-1 tvg-name=" 鲍星星" tvg-logo="null" group-title="王者荣耀",  鲍星星
+https://live.52sf.ga/huya/273435
+#EXTINF:-1 tvg-name=" 矛神" tvg-logo="null" group-title="王者荣耀",  矛神
+https://live.52sf.ga/huya/503708
