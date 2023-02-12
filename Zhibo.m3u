@@ -1,55 +1,57 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/68/495b16b192deec93f5dbe6a6910367_180_135.jpg?1589663752" group-title="王者荣耀", 韩涵TuT
-https://epg.112114.xyz/huya/774810
+http://live.aptvapp.com/live/huya/774810
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/70/3ba6db576629de9f18a992e52e27ce_180_135.jpg?1612268804" group-title="王者荣耀", 久爱-小予神【矛神】
-https://epg.112114.xyz/huya/503708
+http://live.aptvapp.com/live/huya/503708
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/2f/975a5571a1d37f2d638d27da41926a_180_135.jpg?1614844770" group-title="王者荣耀", DK丶微凉
-https://epg.112114.xyz/huya/591756
+http://live.aptvapp.com/live/huya/591756
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/66/6aba6b4323ab3c52960e7bf169d08e_180_135.jpg?1653400276" group-title="王者荣耀", KPL职业联赛
-https://epg.112114.xyz/huya/660002
+http://live.aptvapp.com/live/huya/660002
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/73/c23866333a1b471d811ca545ffeb4e_180_135.jpg?1641803201" group-title="王者荣耀", 陈穿
-https://epg.112114.xyz/huya/124974
+http://live.aptvapp.com/live/huya/124974
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1654682529" group-title="英雄联盟", 虎牙英雄联盟赛事
-https://epg.112114.xyz/huya/660000
+http://live.aptvapp.com/live/huya/660000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/62/798f90936606246aaa3edce23c5d14_180_135.jpg?1646287406" group-title="王者荣耀", 亿凡-致命换弹
-https://epg.112114.xyz/huya/562170
+http://live.aptvapp.com/live/huya/562170
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/be/1b9fe747d10d00648c73633353d2c3_180_135.jpg?1630244763" group-title="王者荣耀", 狼队小胖
-https://epg.112114.xyz/huya/24147418
+http://live.aptvapp.com/live/huya/24147418
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/b9/b6824c9d5593f03f5b5c4f71189023_180_135.jpg?1564815405" group-title="王者荣耀", 张大仙
-https://epg.112114.xyz/huya/688
+http://live.aptvapp.com/live/huya/688
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1022/02/54d4eebf6901e1eb24ec07f81eb7b5_180_135.jpg?1583999352" group-title="王者荣耀", LING-赖神
-https://epg.112114.xyz/huya/99724
+http://live.aptvapp.com/live/huya/99724
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/badbf01f7ab943358bf78bcd9245305f_middle.jpg" group-title="CS:GO", 玩机器丶Machine
-https://epg.112114.xyz/douyu/6979222
+http://live.aptvapp.com/live/douyu/6979222
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/df57d3efec57443994b960caec579364_middle.jpg" group-title="英雄联盟", 金咕咕金咕咕doinb
-https://epg.112114.xyz/douyu/252140
+http://live.aptvapp.com/live/douyu/252140
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201709/03/15/2958546e2f2e4d7c0bf0238759521ff8_middle.jpg" group-title="热门游戏", Xleft小叮当
-https://epg.112114.xyz/douyu/3168536
+http://live.aptvapp.com/live/douyu/3168536
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/bf37daa11de78b0f787e28112764e3ebea4f0237.jpg" group-title="英雄联盟", 咪啪aaa
+http://live.aptvapp.com/live/bilibili/9113562
 #EXTINF:-1 tvg-name=" 北慕" tvg-logo="null" group-title="王者荣耀",  北慕
-https://epg.112114.xyz/huya/31520
+http://live.aptvapp.com/live/huya/31520
 #EXTINF:-1 tvg-name=" 长生" tvg-logo="null" group-title="王者荣耀",  长生
-https://epg.112114.xyz/huya/265749
+http://live.aptvapp.com/live/huya/265749
 #EXTINF:-1 tvg-name=" 鲍星星" tvg-logo="null" group-title="王者荣耀",  鲍星星
-https://epg.112114.xyz/huya/273435
+http://live.aptvapp.com/live/huya/273435
 #EXTINF:-1 tvg-name=" 矛神" tvg-logo="null" group-title="王者荣耀",  矛神
-https://epg.112114.xyz/huya/503708
+http://live.aptvapp.com/live/huya/503708
 #EXTINF:-1 tvg-name=" Sccc" tvg-logo="null" group-title="DOTA2", Sccc
-https://epg.112114.xyz/huya/123888
+http://live.aptvapp.com/live/huya/123888
 #EXTINF:-1 tvg-name=" 秋人" tvg-logo="null" group-title="王者荣耀", 秋人
-https://epg.112114.xyz/huya/714963
+http://live.aptvapp.com/live/huya/714963
 #EXTINF:-1 tvg-name=" 念青" tvg-logo="null" group-title="王者荣耀",  念青
-https://epg.112114.xyz/huya/825912
+http://live.aptvapp.com/live/huya/825912
 #EXTINF:-1 tvg-name=" 陆左" tvg-logo="null" group-title="王者荣耀",  陆左
-https://epg.112114.xyz/huya/26566329
+http://live.aptvapp.com/live/huya/26566329
 #EXTINF:-1 tvg-name=" 赖神" tvg-logo="null" group-title="王者荣耀",  赖神
-https://epg.112114.xyz/huya/99724
+http://live.aptvapp.com/live/huya/99724
 #EXTINF:-1 tvg-name=" 南瓜" tvg-logo="null" group-title="王者荣耀",  南瓜
-https://epg.112114.xyz/douyu/8667622
+http://live.aptvapp.com/live/douyu/8667622
 #EXTINF:-1 tvg-name=" 夜天" tvg-logo="null" group-title="王者荣耀",  夜天
-https://epg.112114.xyz/huya/112504
-#EXTINF:-1 tvg-name=" 咪啪" tvg-logo="null" group-title="英雄联盟",  咪啪
-https://epg.112114.xyz/bili/9113562
+http://live.aptvapp.com/live/huya/112504
+#EXTINF:-1 tvg-name=" fly" tvg-logo="null" group-title="王者荣耀",  fly
+http://live.aptvapp.com/live/huya/742610
 #EXTINF:-1 tvg-name=" MZM" tvg-logo="null" group-title="OW",  MZM
-https://epg.112114.xyz/douyu/4644759
+http://live.aptvapp.com/live/douyu/4644759
 #EXTINF:-1 tvg-name=" longdd" tvg-logo="null" group-title="DOTA2",  longdd
-https://epg.112114.xyz/bili/5558
+http://live.aptvapp.com/live/bili/5558
