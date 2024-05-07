@@ -31,6 +31,8 @@ http://148.135.93.213:81/live/douyu/6979222
 http://148.135.93.213:81/live/douyu/252140
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201709/03/15/2958546e2f2e4d7c0bf0238759521ff8_middle.jpg" group-title="热门游戏", Xleft小叮当
 http://148.135.93.213:81/live/douyu/3168536
+#EXTINF:-1 tvg-name=" CSBOY" tvg-logo="null" group-title="CS",  CSBOY
+http://148.135.93.213:81/live/huya/123321
 #EXTINF:-1 tvg-name=" 北慕" tvg-logo="null" group-title="王者荣耀",  北慕
 http://148.135.93.213:81/live/huya/31520
 #EXTINF:-1 tvg-name=" 长生" tvg-logo="null" group-title="王者荣耀",  长生
