@@ -1292,7 +1292,7 @@
     }
 
     // 弹出页的操作
-    if (/https:\/\/.*\.agsvpt\.com\/web\/torrent-approval-page\?torrent_id=.*/.test(window.location.href)) {
+    if (/https:\/\/.*\.qingwapt\.com\/web\/torrent-approval-page\?torrent_id=.*/.test(window.location.href)) {
         // 使用延迟来等待页面可能的异步加载
         setTimeout(function() {
             //console.log("autoFillErrorInfo:"+GM_getValue('autoFillErrorInfo'));
