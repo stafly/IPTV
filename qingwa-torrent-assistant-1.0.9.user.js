@@ -293,7 +293,7 @@
     } else if (title_lowercase.includes("mpeg2") || title_lowercase.includes("mpeg-2")) {
         title_encode = 4;
     } else if (title_lowercase.includes("av1") || title_lowercase.includes("av-1")) {
-        title_encode = 12;
+        title_encode = 7;
     } else if (title_lowercase.includes("mpeg4") || title_lowercase.includes("mpeg-4")) {
         title_encode = 3;
     } else if (title_lowercase.includes("vp9") || title_lowercase.includes("vp-9")) {
