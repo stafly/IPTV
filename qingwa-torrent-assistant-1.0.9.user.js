@@ -1268,7 +1268,7 @@
 //     });
 
     // 主页面操作
-    if (/https:\/\/.*\.agsvpt\.com\/details\.php\?id=.*/.test(window.location.href)) {
+    if (/https:\/\/.*\.qingwapt\.com\/details\.php\?id=.*/.test(window.location.href)) {
         addApproveLink();
         //console.log("autoFillErrorInfo:"+GM_getValue('autoFillErrorInfo'));
         //console.log("autoCheckAndConfirm:"+GM_getValue('autoCheckAndConfirm'));
