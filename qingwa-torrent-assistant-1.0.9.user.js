@@ -936,8 +936,8 @@
     }
 
     if(mediainfo_short === mediainfo && officialSeed == true) {
-        $('#assistant-tooltips').append('媒体信息未解析<br/>');
-        error = true;
+       // $('#assistant-tooltips').append('媒体信息未解析<br/>');
+       // error = true;
     }
     if(mediainfo_short === mediainfo && officialSeed == false) {
         // $('#assistant-tooltips-warning').append('媒体信息未解析<br/>');
