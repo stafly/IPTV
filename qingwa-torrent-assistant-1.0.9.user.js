@@ -17,7 +17,7 @@
 // @downloadURL https://update.greasyfork.org/scripts/490095/qingwa-torrent-assistant.user.js
 // @updateURL https://update.greasyfork.org/scripts/490095/qingwa-torrent-assistant.meta.js
 // ==/UserScript==
-
+// 2024.12 修正 1.官种出现媒体信息未解析  2.修正通过检测的种子不出现“此种子未检测到错误”  3.修正AV1编码错误
 /*
  * 改自Agsv-Torrent-Assistant
  */
