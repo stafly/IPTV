@@ -260,6 +260,9 @@
     let title_audio_complete = title.match(/\b(DD[P\+]?|FLAC|LPCM|AC3|MP[123]|OPUS|DTS([: -]?X|-?HD ?(M|HR)A)?) ?(\d[ \.]?\d)?/);
     let title_AC3 = title.includes(' AC3');
     let title_HQ = title.includes(' HQ');
+    let title_60FPS = title.includes(' 60FPS');
+	
+
     // 媒介
     if(title_lowercase.includes("web-dl") || title_lowercase.includes("webdl")){
         title_type = 7;
@@ -826,6 +829,16 @@
 
     if (title_AC3) {
         $('#assistant-tooltips').append('AC3改为DD<br/>');
+        error = true;
+    }
+
+    if (title_HQ) {
+        $('#assistant-tooltips').append('删除HQ<br/>');
+        error = true;
+    }
+
+    if (title_60FPS) {
+        $('#assistant-tooltips').append('删除60FPS<br/>');
         error = true;
     }
 
