@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         qingwa-torrent-assistant
 // @namespace    http://tampermonkey.net/
-// @version      1.0.9
+// @version      1.0.9.3
 // @description  不可蛙-审种助手
 // @author       qingwa.pro@jaycode
 // @match        *://*.qingwapt.com/details.php*
