@@ -259,7 +259,7 @@
 
     let title_audio_complete = title.match(/\b(DD[P\+]?|FLAC|LPCM|AC3|MP[123]|OPUS|DTS([: -]?X|-?HD ?(M|HR)A)?) ?(\d[ \.]?\d)?/);
     let title_AC3 = title.includes(' AC3');
-
+    let title_HQ = title.includes(' HQ');
     // 媒介
     if(title_lowercase.includes("web-dl") || title_lowercase.includes("webdl")){
         title_type = 7;
@@ -735,6 +735,10 @@
     if(/[^\x00-\xff]+/g.test(title) && !title.includes('￡') && !title.includes('™') && !/[\u2161-\u2169]/g.test(title) && !title.includes('Ⅰ')) {
         $('#assistant-tooltips').append('主标题包含中文或中文字符<br/>');
         error = true;
+    }
+  //  if(/[^\x00-\xff]+/g.test(title) && !title.includes('￡') && !title.includes('™') && !/[\u2161-\u2169]/g.test(title) && !title.includes('Ⅰ')) {
+ //       $('#assistant-tooltips').append('主标题包含HQ<br/>');
+  //      error = true;
     }
     if (!subtitle) {
         $('#assistant-tooltips').append('副标题为空<br/>');
